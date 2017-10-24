@@ -1,0 +1,78 @@
+C:\Users\yecid corzo\Desktop\Barista3000A ultimakopia\Barista3000_skal\bin\Debug\Barista3000_skal.exe
+C:\Users\yecid corzo\Desktop\Barista3000A ultimakopia\Barista3000_skal\bin\Debug\Barista3000_skal.pdb
+C:\Users\yecid corzo\Desktop\Barista3000A ultimakopia\Barista3000_skal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\yecid corzo\Desktop\Barista3000A ultimakopia\Barista3000_skal\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\yecid corzo\Desktop\Barista3000A ultimakopia\Barista3000_skal\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\yecid corzo\Desktop\Barista3000A ultimakopia\Barista3000_skal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\yecid corzo\Desktop\Barista3000A ultimakopia\Barista3000_skal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\yecid corzo\Desktop\Barista3000A ultimakopia\Barista3000_skal\obj\x86\Debug\Barista3000_skal.exe
+C:\Users\yecid corzo\Desktop\Barista3000A ultimakopia\Barista3000_skal\obj\x86\Debug\Barista3000_skal.pdb
+C:\Users\yecid corzo\Desktop\Barista 3000\Barista3000A ultimakopia\Barista3000_skal\obj\x86\Debug\Barista3000_skal.exe
+C:\Users\yecid corzo\Desktop\Barista 3000\Barista3000A ultimakopia\Barista3000_skal\obj\x86\Debug\Barista3000_skal.pdb
+C:\Users\yecid corzo\Desktop\Barista 3000\Barista3000 den bästa\Barista3000_skal\obj\x86\Debug\Barista3000_skal.exe
+C:\Users\yecid corzo\Desktop\Barista 3000\Barista3000 den bästa\Barista3000_skal\obj\x86\Debug\Barista3000_skal.pdb
+C:\Users\yecid corzo\Desktop\Barista 3000\Barista3000 den bästa\Barista3000_skal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\yecid corzo\Desktop\Barista 3000\Barista3000 den bästa\Barista3000_skal\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\yecid corzo\Desktop\Barista 3000\Barista3000 den bästa\Barista3000_skal\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\yecid corzo\Desktop\Barista 3000\Barista3000 den bästa\Barista3000_skal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\yecid corzo\Desktop\Barista 3000\Barista3000 den bästa\Barista3000_skal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\yecid corzo\Desktop\Barista 3000\Barista3000 den bästa\Barista3000_skal\bin\Debug\Barista3000_skal.exe
+C:\Users\yecid corzo\Desktop\Barista 3000\Barista3000 den bästa\Barista3000_skal\bin\Debug\Barista3000_skal.pdb
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\Barista3000 den bästa\Barista3000_skal\obj\x86\Debug\Barista3000_skal.exe
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\Barista3000 den bästa\Barista3000_skal\obj\x86\Debug\Barista3000_skal.pdb
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\Barista3000 den bästa\Barista3000_skal\bin\Debug\Barista3000_skal.exe
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\Barista3000 den bästa\Barista3000_skal\bin\Debug\Barista3000_skal.pdb
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\Barista3000 den bästa\Barista3000_skal\obj\x86\Debug\Barista3000_RevA.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\Barista3000 den bästa\Barista3000_skal\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\Barista3000 den bästa\Barista3000_skal\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\Barista3000 den bästa\Barista3000_skal\obj\x86\Debug\Barista3000_RevA.csproj.GenerateResource.Cache
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\Barista3000 den bästa\Barista3000_skal\obj\x86\Debug\Barista3000_skal.g.resources
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\Barista3000_Aroka_Lab6\Barista3000_skal\obj\x86\Debug\Barista3000_skal.exe
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\Barista3000_Aroka_Lab6\Barista3000_skal\obj\x86\Debug\Barista3000_skal.pdb
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\Barista3000_Aroka_Lab6\Barista3000_skal\bin\Debug\Barista3000_skal.exe
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\Barista3000_Aroka_Lab6\Barista3000_skal\bin\Debug\Barista3000_skal.pdb
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\Barista3000_Aroka_Lab6\Barista3000_skal\obj\x86\Debug\Barista3000_RevA.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\Barista3000_Aroka_Lab6\Barista3000_skal\obj\x86\Debug\Barista3000_RevA.csproj.GenerateResource.Cache
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\Barista3000_Aroka_Lab6\Barista3000_skal\bin\Debug\Sounds\Morning sound of pouring coffee!.wav
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\Barista3000_Aroka_Lab6\Barista3000_skal\bin\Debug\Sounds\pouring coffee.wav
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\Barista3000_Aroka_Lab6\Barista3000_skal\bin\Debug\Sounds\Running Water.wav
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\Barista3000_Aroka_Lab6\Barista3000_skal\bin\Debug\Sounds\Sparkling Water Sound.wav
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\Barista3000_Aroka_Lab6\Barista3000_skal\bin\Debug\bin\Morning sound of pouring coffee!.wav
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\Barista3000_Aroka_Lab6\Barista3000_skal\bin\Debug\bin\pouring coffee.wav
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\Barista3000_Aroka_Lab6\Barista3000_skal\bin\Debug\bin\Running Water.wav
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\Barista3000_Aroka_Lab6\Barista3000_skal\bin\Debug\bin\Sparkling Water Sound.wav
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\Barista3000_Aroka_Lab6\Barista3000_skal\obj\x86\Debug\Barista3000.Properties.Resources.resources
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\Barista3000_Aroka_Lab6\Barista3000_skal\obj\x86\Debug\Barista3000.Form1.resources
+C:\Users\Acer\Desktop\OOP_C#Lab6\Barista3000_Aroka_Lab6\Barista3000_skal\obj\x86\Debug\Barista3000_skal.exe
+C:\Users\Acer\Desktop\OOP_C#Lab6\Barista3000_Aroka_Lab6\Barista3000_skal\obj\x86\Debug\Barista3000_skal.pdb
+C:\Users\Acer\Desktop\OOP_C#Lab6\Barista3000_Aroka_Lab6\Barista3000_skal\bin\Debug\bin\Morning sound of pouring coffee!.wav
+C:\Users\Acer\Desktop\OOP_C#Lab6\Barista3000_Aroka_Lab6\Barista3000_skal\bin\Debug\bin\pouring coffee.wav
+C:\Users\Acer\Desktop\OOP_C#Lab6\Barista3000_Aroka_Lab6\Barista3000_skal\bin\Debug\bin\Running Water.wav
+C:\Users\Acer\Desktop\OOP_C#Lab6\Barista3000_Aroka_Lab6\Barista3000_skal\bin\Debug\bin\Sparkling Water Sound.wav
+C:\Users\Acer\Desktop\OOP_C#Lab6\Barista3000_Aroka_Lab6\Barista3000_skal\bin\Debug\Sounds\Morning sound of pouring coffee!.wav
+C:\Users\Acer\Desktop\OOP_C#Lab6\Barista3000_Aroka_Lab6\Barista3000_skal\bin\Debug\Sounds\pouring coffee.wav
+C:\Users\Acer\Desktop\OOP_C#Lab6\Barista3000_Aroka_Lab6\Barista3000_skal\bin\Debug\Sounds\Running Water.wav
+C:\Users\Acer\Desktop\OOP_C#Lab6\Barista3000_Aroka_Lab6\Barista3000_skal\bin\Debug\Sounds\Sparkling Water Sound.wav
+C:\Users\Acer\Desktop\OOP_C#Lab6\Barista3000_Aroka_Lab6\Barista3000_skal\bin\Debug\Barista3000_skal.exe
+C:\Users\Acer\Desktop\OOP_C#Lab6\Barista3000_Aroka_Lab6\Barista3000_skal\bin\Debug\Barista3000_skal.pdb
+C:\Users\Acer\Desktop\OOP_C#Lab6\Barista3000_Aroka_Lab6\Barista3000_skal\obj\x86\Debug\Barista3000_RevA.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\OOP_C#Lab6\Barista3000_Aroka_Lab6\Barista3000_skal\obj\x86\Debug\Barista3000.Form1.resources
+C:\Users\Acer\Desktop\OOP_C#Lab6\Barista3000_Aroka_Lab6\Barista3000_skal\obj\x86\Debug\Barista3000.Properties.Resources.resources
+C:\Users\Acer\Desktop\OOP_C#Lab6\Barista3000_Aroka_Lab6\Barista3000_skal\obj\x86\Debug\Barista3000_RevA.csproj.GenerateResource.Cache
+C:\Users\Acer\Desktop\College\OOP_C#Lab6\Barista3000_Aroka_Lab6\Barista3000_skal\bin\Debug\bin\Morning sound of pouring coffee!.wav
+C:\Users\Acer\Desktop\College\OOP_C#Lab6\Barista3000_Aroka_Lab6\Barista3000_skal\bin\Debug\bin\pouring coffee.wav
+C:\Users\Acer\Desktop\College\OOP_C#Lab6\Barista3000_Aroka_Lab6\Barista3000_skal\bin\Debug\bin\Running Water.wav
+C:\Users\Acer\Desktop\College\OOP_C#Lab6\Barista3000_Aroka_Lab6\Barista3000_skal\bin\Debug\bin\Sparkling Water Sound.wav
+C:\Users\Acer\Desktop\College\OOP_C#Lab6\Barista3000_Aroka_Lab6\Barista3000_skal\bin\Debug\Sounds\Morning sound of pouring coffee!.wav
+C:\Users\Acer\Desktop\College\OOP_C#Lab6\Barista3000_Aroka_Lab6\Barista3000_skal\bin\Debug\Sounds\pouring coffee.wav
+C:\Users\Acer\Desktop\College\OOP_C#Lab6\Barista3000_Aroka_Lab6\Barista3000_skal\bin\Debug\Sounds\Running Water.wav
+C:\Users\Acer\Desktop\College\OOP_C#Lab6\Barista3000_Aroka_Lab6\Barista3000_skal\bin\Debug\Sounds\Sparkling Water Sound.wav
+C:\Users\Acer\Desktop\College\OOP_C#Lab6\Barista3000_Aroka_Lab6\Barista3000_skal\bin\Debug\Barista3000_skal.exe
+C:\Users\Acer\Desktop\College\OOP_C#Lab6\Barista3000_Aroka_Lab6\Barista3000_skal\bin\Debug\Barista3000_skal.pdb
+C:\Users\Acer\Desktop\College\OOP_C#Lab6\Barista3000_Aroka_Lab6\Barista3000_skal\obj\x86\Debug\Barista3000_RevA.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\College\OOP_C#Lab6\Barista3000_Aroka_Lab6\Barista3000_skal\obj\x86\Debug\Barista3000.Form1.resources
+C:\Users\Acer\Desktop\College\OOP_C#Lab6\Barista3000_Aroka_Lab6\Barista3000_skal\obj\x86\Debug\Barista3000.Properties.Resources.resources
+C:\Users\Acer\Desktop\College\OOP_C#Lab6\Barista3000_Aroka_Lab6\Barista3000_skal\obj\x86\Debug\Barista3000_RevA.csproj.GenerateResource.Cache
+C:\Users\Acer\Desktop\College\OOP_C#Lab6\Barista3000_Aroka_Lab6\Barista3000_skal\obj\x86\Debug\Barista3000_RevA.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\College\OOP_C#Lab6\Barista3000_Aroka_Lab6\Barista3000_skal\obj\x86\Debug\Barista3000_skal.exe
+C:\Users\Acer\Desktop\College\OOP_C#Lab6\Barista3000_Aroka_Lab6\Barista3000_skal\obj\x86\Debug\Barista3000_skal.pdb
